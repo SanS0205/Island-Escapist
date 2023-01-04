@@ -9,7 +9,7 @@ Game island survival yang dibuat menggunakan Unreal Engine 5
 ### Pre-Production:
 * [Story Board](https://docs.google.com/document/d/1ueEEenMD1cvrARYrtxW7UHprCa5TZIZbHiXTWMhxsZ8/edit).
 * [GDD / Game Design Document](https://docs.google.com/document/d/1IRKJkALDCwrgAJOtqAhdpvZMJcMrPzAnz4n0tcnQMnc/edit).
-### Production
+### Production:
 * [Game Files](https://drive.google.com/drive/folders/1-Obs1RXDBNkF7TT-JEipl1HENoadBJ-h?usp=sharing).
-### Post-Production
+### Post-Production:
 * [Teaser]().
