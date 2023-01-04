@@ -8,7 +8,7 @@ Game island survival yang dibuat menggunakan Unreal Engine 5
 * C14190112 / Cliff Leonard
 ### Pre-Production:
 * [Story Board](https://docs.google.com/document/d/1ueEEenMD1cvrARYrtxW7UHprCa5TZIZbHiXTWMhxsZ8/edit).
-* [GDD / Game D](https://docs.google.com/document/d/1IRKJkALDCwrgAJOtqAhdpvZMJcMrPzAnz4n0tcnQMnc/edit).
+* [GDD / Game Design Document](https://docs.google.com/document/d/1IRKJkALDCwrgAJOtqAhdpvZMJcMrPzAnz4n0tcnQMnc/edit).
 ### Production
 * [Game Files]().
 ### Post-Production
